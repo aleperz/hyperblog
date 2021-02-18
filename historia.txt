@@ -5,10 +5,9 @@ kabdsbhfb
 kjsfkjbdrgkjhbrjb
 mamamamamamammama
 
-probando git rm --cached
-probando git rm --cached2
 
-modificacion para el --cached
+modificacion cabecera
+
 
 
 
