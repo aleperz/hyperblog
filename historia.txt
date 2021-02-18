@@ -9,3 +9,9 @@ probando git rm --cached
 probando git rm --cached2
 
 modificacion para el --cached
+
+
+
+
+
+prueba de modificacion master antes de merge
